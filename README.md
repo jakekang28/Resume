@@ -1,13 +1,5 @@
-# Resume
-Resume for internship
 
 # 💼 Jihoon Kang
----
-
-## 🧠 Summary
-
-Creative and detail-oriented software engineer with 5+ years of experience building scalable web applications and contributing to open-source projects. Passionate about human-computer interaction and AI-driven UX.
-
 ---
 
 ## 🛠 Skills
@@ -21,47 +13,27 @@ Creative and detail-oriented software engineer with 5+ years of experience build
 ---
 
 ## 💼 Experience
+### 💻 Frontend/Backend Web Development  
+*2024.08-2024.11*
 
-### 🏢 Senior Software Engineer — XYZ Corp  
-*San Francisco, CA | Jan 2021 – Present*
-
-- Led the front-end development of a SaaS platform used by 20k+ users.
-- Integrated RESTful APIs and optimized performance by 30%.
-- Mentored junior developers and conducted code reviews.
-
-### 💻 Software Engineer — ABC Inc  
-*Remote | Jul 2018 – Dec 2020*
-
-- Built internal tools using Python and Flask to automate QA workflows.
-- Reduced regression bug rate by 25% with automated test pipelines.
-
----
-
-## 🎓 Education
-
-**B.S. in Computer Science**  
-University of California, Berkeley  
-*2014 – 2018*
-
+- Built web application named Ball Village which is a service that provides rental service of equipments for ball games.
+- Experience in React, Express, Nodejs
+- Currently building a version following up with Nextjs
+- I was the only developer for this team, which helped me learn a lot from unexpected bugs or user related problems 
 ---
 
 ## 🧪 Projects
-
-### 🔍 [SearchUI](https://github.com/johndoe/searchui)
-> Lightweight search interface for documentation sites built with React.
-
-- Implemented keyboard navigation and fuzzy search.
-- 1.2k stars on GitHub.
-
-### 🤖 [ChatGPT-Persona-Lab](https://github.com/johndoe/persona-lab)
-> Experiment with AI-generated personas for UX training.
-
----
+### 
+### 🔍 KAIST SPARCS Science Hackathon - ChangeUS App.- Frontend/Backend 
+*2024.10*
+- ChangeUS is an app that helps young kids learn environmental scientific facts 
+- Participated as a frontend/backend developer with three other teammates.
+- Considered how to develop a user-friendly app to help kids assimilate science facts in perspective of UI + Gamification strategy 
 
 ## 🏆 Certifications
 
-- AWS Certified Developer – Associate
-- Google UX Design Certificate (Coursera)
+- Investment by Startup Support Center in Korea University for Ball Village app.
+- 2024 KAIST Sparcs Science Hackathon 2nd place
 
 ---
 
@@ -72,10 +44,3 @@ University of California, Berkeley
 
 ---
 
-## 📫 Let’s Connect
-
-Feel free to reach out for collaboration or networking!
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/johndoe)
-[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)](https://github.com/johndoe)
-[![Twitter](https://img.shields.io/badge/Twitter-blue?logo=twitter)](https://twitter.com/johncodes)
