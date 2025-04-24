@@ -39,8 +39,7 @@
 
 ## 🌱 Interests
 
-- HCI, Generative AI, Interaction Design
-- Running, Music Production, Retro Computing
-
+- HCI, AI, Frontend/Backend Development
+- Strong motivation in building a virtual world by analyzing and mimicking sensory information between human and AI
 ---
 
