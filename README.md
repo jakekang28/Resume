@@ -15,6 +15,7 @@
 - 2022 Fall. CS470 Introduction to Artificial Intelligence
 - 2022 Fall. CS490 <Special Topics in Computer Science> Graphical Machine Learning and Mining
 - 2025 Spring. CS374 Introduction to Human-Computer Interaction
+- 2025 Spring. CS376 Machine Learning
 ## 💼 Experience
 ### 💻 Frontend/Backend Web Development  
 *2024.08-2024.11*
