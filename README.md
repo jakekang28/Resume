@@ -25,7 +25,7 @@
 - Currently building a version following up with Nextjs
 - I was the only developer for this team, which helped me learn a lot from unexpected bugs or user related problems 
 ---
-
+[Backend](https://github.com/jakekang28/BVProtoBack.git)  
 ## 🧪 Projects
 ### 
 ### 🔍 KAIST SPARCS Science Hackathon - ChangeUS App.- Frontend/Backend 
@@ -33,9 +33,9 @@
 - ChangeUS is an app that helps young kids learn environmental scientific facts 
 - Participated as a frontend/backend developer with three other teammates.
 - Considered how to develop a user-friendly app to help kids assimilate science facts in perspective of UI + Gamification strategy 
-[https://github.com/jakekang28/ChangeUSFront.git](https://github.com/jakekang28/ChangeUSFront.git)  
+[Frontend](https://github.com/jakekang28/ChangeUSFront.git)  
 The code is on the branch->main   
-[https://github.com/jakekang28/ChangeUSBack.git](https://github.com/jakekang28/ChangeUSBack.git)  
+[Backend](https://github.com/jakekang28/ChangeUSBack.git)  
 ## 🏆 Certifications
 
 - Investment by Startup Support Center in Korea University for Ball Village app.
