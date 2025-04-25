@@ -47,6 +47,6 @@ The code is on the branch->main
 
 - HCI, AI, Frontend/Backend Development
 - Strong motivation in building a virtual world by analyzing and mimicking sensory information between human and AI
-- Strong motivation in building a AI that mimics valuable human experiences that can be used for educating unexperienced human-beings 
+- Strong motivation in building a AI that mimics valuable human experiences
 ---
 
