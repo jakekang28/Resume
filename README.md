@@ -23,7 +23,8 @@
 - Built web application named Ball Village which is a service that provides rental service of equipments for ball games.
 - Experience in React, Express, Nodejs
 - Currently building a version following up with Nextjs
-- I was the only developer for this team, which helped me learn a lot from unexpected bugs or user related problems   
+- I was the only developer for this team, which helped me learn a lot from unexpected bugs or user related problems  
+[Frontend](https://github.com/jakekang28/BVFrontend.git)     
 [Backend](https://github.com/jakekang28/BVProtoBack.git)  
 ---  
 ## 🧪 Projects
