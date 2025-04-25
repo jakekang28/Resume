@@ -27,8 +27,6 @@
 [Frontend](https://github.com/jakekang28/BVFrontend.git)     
 [Backend](https://github.com/jakekang28/BVProtoBack.git)  
 ---  
-## 🧪 Projects
-### 
 ### 🔍 KAIST SPARCS Science Hackathon - ChangeUS App.- Frontend/Backend 
 *2024.10*
 - ChangeUS is an app that helps young kids learn environmental scientific facts 
