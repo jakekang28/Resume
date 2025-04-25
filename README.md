@@ -33,9 +33,9 @@
 - ChangeUS is an app that helps young kids learn environmental scientific facts 
 - Participated as a frontend/backend developer with three other teammates.
 - Considered how to develop a user-friendly app to help kids assimilate science facts in perspective of UI + Gamification strategy 
--[Frontend](https://github.com/jakekang28/ChangeUSFront.git)
+-[https://github.com/jakekang28/ChangeUSFront.git](https://github.com/jakekang28/ChangeUSFront.git)
 -The code is on the branch->main 
--[Backend](https://github.com/jakekang28/ChangeUSBack.git)
+-[https://github.com/jakekang28/ChangeUSBack.git](https://github.com/jakekang28/ChangeUSBack.git)
 ## 🏆 Certifications
 
 - Investment by Startup Support Center in Korea University for Ball Village app.
